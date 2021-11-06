@@ -6,3 +6,5 @@ client.on('ready', () => {
   )}
   
   client.login('token')
+  
+///you need discord.js 12.5.3 and nodejs for this to work
