@@ -1,2 +1,2 @@
 # Basic-code
-Replace 'token' with your bot token at https://discorc.com/developers/applications
+Replace 'token' with your bot token at https://discord.com/developers/applications
