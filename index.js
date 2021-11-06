@@ -5,4 +5,4 @@ client.on('ready', () => {
   console.log(`${client.user.tag) is online`)
   )}
   
-  clien.login('token')
+  client.login('token')
